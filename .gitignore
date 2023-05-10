@@ -3,6 +3,7 @@
 !src/
 # Ignore all files except pom.xml
 !pom.xml
+!README.md
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
