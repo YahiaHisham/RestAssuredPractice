@@ -1,6 +1,8 @@
 # Ignore all folders except src
 *
 !src/
+!/src/**/
+!/src/**/*
 # Ignore all files except pom.xml
 !pom.xml
 !README.md
